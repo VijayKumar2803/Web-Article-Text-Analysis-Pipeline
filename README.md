@@ -13,7 +13,7 @@ This repository contains a Python script for web scraping, text extraction, and 
 
 #### File Structure:
 
-- **`extract_and_analyze_articles.py`**: Python script for scraping articles, extracting text, and performing text analysis.
+- **`Web Article Text Analysis Pipeline.ipynb`**: Python script for scraping articles, extracting text, and performing text analysis.
 - **`Input.xlsx`**: Input Excel file containing URLs to scrape.
 - **`Output Data Structure.xlsx`**: Output Excel file defining the structure for the analysis results.
 - **`MasterDictionary`**: Directory containing positive and negative word dictionaries.
@@ -34,7 +34,7 @@ This repository contains a Python script for web scraping, text extraction, and 
    - Mount Google Drive in your Colab notebook.
 
 3. **Run the Script**:
-   - Run the Python script `extract_and_analyze_articles.py`.
+   - Run the Python script `Web Article Text Analysis Pipeline.ipynb`.
    - Ensure the paths in the script are correctly set according to your environment.
 
 4. **Review Output**:
